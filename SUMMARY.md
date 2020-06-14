@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Github开源许可证选择](1-github-opensource-license.md)
+* [Github仓库如何选择开源许可证](1-github-opensource-license.md)
 * 
 
