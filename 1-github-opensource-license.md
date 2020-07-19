@@ -3,11 +3,6 @@
 [TOC]
 
 
-
-
-
-
-
 ![](https://cisco-test-images.oss-cn-shenzhen.aliyuncs.com/chrome_20_06_13_20_574_198.png)
 
 当我们点了Github个人主页右上角的那个那个加号之后,如上所示可以看到创建新仓库的选项, 点击 \`New repository\` , 就会进入到创建新仓库的页面,进入到这个页面之后可以看到右下角的下拉框可以为自己的项目选择开源许可证:
@@ -202,10 +197,10 @@ Limitations: 就是开源许可证不允许去做的事情
 
 
 
-都读到这里了微信的朋友点个在看,其他平台的朋友可以关注微信公众号 `早睡蟒` 更多优质原创无广告内容等你来看.
+都读到这里了微信的朋友点个在看,其他平台的朋友可以近距离扫描下方二维码关注微信公众号 `早睡蟒` 更多优质原创无广告内容等你来看.
 
-![](https://cisco-test-images.oss-cn-shenzhen.aliyuncs.com/uTools_1591411982486.png)
 
+![](https://cisco-test-images.oss-cn-shenzhen.aliyuncs.com/test.png)
 
 
 
